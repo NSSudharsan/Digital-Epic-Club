@@ -1,0 +1,47 @@
+
+     .box{
+                    position:absolute;
+                    top: 100%;
+                    left: 50%;
+                    transform: translate(-50%,-50%);
+                    width: 600px;
+                    padding: 40px;
+                    background:rgba(200,50,50,.8) ;
+                    box-sizing:border-box;
+                    box-shadow: 15px 25px rgba(0,0,0,.5);
+                    border-radius: 20px;
+               }
+        .image{
+	               width: 250px;
+	               height: 250px;
+	               border-radius: 20%;
+	               position:absolute;
+                   top: -90px;
+	               left: 460px;
+    
+                }
+
+        .OBJ-3 { 
+                    cursor: pointer;
+                    border-radius:20PX;
+                    background-color:blueviolet;
+                    font-family:sans-serif;
+                    font-size:18px;
+                    color:#ffffff;
+                    font-style:bold;
+                    font-variant:small-caps;
+                    text-align:center;
+                }
+        .OBJ-3:hover{
+                    cursor: pointer;
+                    background:rgb(0,117,0);
+                    font-style:oblique;
+                    color:black;
+                    }
+        #r1:hover{
+            cursor: pointer;
+            
+        }
+
+    
+    
